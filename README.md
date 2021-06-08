@@ -6,8 +6,8 @@
 - [Phonebook App Deployement with AWS ASG, ELB, RDS(MySql) and CloudFormation](https://github.com/mehmetcolgecen/AWS/tree/main/aws/projects/Project-004-Phonebook-Application)
 - [Blog App Deployement (Capstone) with AWS ASG, ELB, RDS(MySql), S3, VPC, IGW, Cloudfront, Route 53, Lambda, DynamoDB, Public and Private Subnets, NAT, Bastion Host](https://github.com/mehmetcolgecen/AWS/tree/main/aws/projects/Project-005-Capstone%20Project-Fully%20Menaged%20Blog-Application)
 - [Serverless App Deployement with AWS Lambda, Cognito API Gateway] (https://github.com/mehmetcolgecen/AWS/tree/main/aws/projects/Project-006-AWS%20Lambda-Cognito%20Project%20(Compare-Yourself))
-- [Phonebook App Deployement with Terraform provisioning AWS ASG, ELB, RDS(MySql) and GitHub ![image](https://user-images.githubusercontent.com/35611608/121149460-5b03a500-c84b-11eb-8e80-2911967acd53.png)
-]  
+- [Phonebook App Deployement with Terraform provisioning AWS ASG, ELB, RDS(MySql) and GitHub :xbox:
+](https://github.com/mehmetcolgecen/DevOps/tree/main/projects/202-Terraform-Phonebook-Application-deployed-on-AWS)
 - [Dockerization of Bookstore Web API on AWS 🐳](https://github.com/mehmetcolgecen/DevOps/tree/main/projects/203-dockerization-bookstore-api-on-python-flask-mysql)
 
 
