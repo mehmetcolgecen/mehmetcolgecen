@@ -1,4 +1,9 @@
 ### Hi there 👋
+## Here are some of my projects that I think you might be interested! 👯
+- [Static Website with AWS EC2 using CloudFormation](https://github.com/mehmetcolgecen/AWS/tree/main/aws/projects/Project-001-kittens-carousel-static-website-ec2)
+
+
+
 
 <!--
 **mehmetcolgecen/mehmetcolgecen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
