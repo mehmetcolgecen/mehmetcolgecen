@@ -4,10 +4,11 @@
 - [Roman Numerals App Deployement with AWS EC2, CloudFormation and GitHub](https://github.com/mehmetcolgecen/AWS/tree/main/aws/projects/Project-003-Roman-Numerals-Converter)
 - [Web App Deployement with AWS ASG, ELB, CloudFormation and Github](https://github.com/mehmetcolgecen/AWS/tree/main/aws/projects/Project-002-Milliseconds-Converter)
 - [Phonebook App Deployement with AWS ASG, ELB, RDS(MySql) and CloudFormation](https://github.com/mehmetcolgecen/AWS/tree/main/aws/projects/Project-004-Phonebook-Application)
-- [Blog App Deployement (Capstone) with AWS ASG, ELB, RDS(MySql), S3, VPC, IGW, Cloudfront, Route 53, Lambda, DynamoDB, Public and Private Subnets, NAT, Bastion Host] (https://github.com/mehmetcolgecen/AWS/tree/main/aws/projects/Project-005-Capstone%20Project-Fully%20Menaged%20Blog-Application)
+- [Blog App Deployement (Capstone) with AWS ASG, ELB, RDS(MySql), S3, VPC, IGW, Cloudfront, Route 53, Lambda, DynamoDB, Public and Private Subnets, NAT, Bastion Host](https://github.com/mehmetcolgecen/AWS/tree/main/aws/projects/Project-005-Capstone%20Project-Fully%20Menaged%20Blog-Application)
 - [Serverless App Deployement with AWS Lambda, Cognito API Gateway] (https://github.com/mehmetcolgecen/AWS/tree/main/aws/projects/Project-006-AWS%20Lambda-Cognito%20Project%20(Compare-Yourself))
-- [Phonebook App Deployement with Terraform provisioning AWS ASG, ELB, RDS(MySql) and GitHub]  
-- [Dockerization of Bookstore Web API on AWS 🐳] (https://github.com/mehmetcolgecen/DevOps/tree/main/projects/203-dockerization-bookstore-api-on-python-flask-mysql)
+- [Phonebook App Deployement with Terraform provisioning AWS ASG, ELB, RDS(MySql) and GitHub ![image](https://user-images.githubusercontent.com/35611608/121149460-5b03a500-c84b-11eb-8e80-2911967acd53.png)
+]  
+- [Dockerization of Bookstore Web API on AWS 🐳](https://github.com/mehmetcolgecen/DevOps/tree/main/projects/203-dockerization-bookstore-api-on-python-flask-mysql)
 
 
 
